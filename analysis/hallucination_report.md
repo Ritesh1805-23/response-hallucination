@@ -11,7 +11,7 @@
 | 3        | No                      | No                     | Correctly identified 2022 Best Actor                            |
 | 4        | No                      | No                     | Both stated *Nur-Sultan (Astana)* depending on data cutoff      |
 | 5        | No                      | No                     | Detailed and biologically accurate from both                    |
-| 6        | No                      | No                     | Correctly answered *Pratibha Patil*                             |
+| 6        | No                      | No                     | Correctly answered *K.R.Narayanan*                             |
 | 7        | No                      | No                     | Accurate explanation of Newton’s 3rd law                        |
 | 8        | No                      | No                     | Both answered *Sir Arthur Conan Doyle* correctly                |
 | 9        | No                      | No                     | Stated *299,792,458 m/s* or equivalent ✔️                       |
