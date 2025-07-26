@@ -19,14 +19,17 @@ This project investigates how often and in what ways ChatGPT and Claude generate
 - Detailed observations and test results are available in the `/results` folder.
 
 ##  Project Structure
-response-hallucination-detection/
+project-03-response-hallucination/
 ├── prompts/
-│   └── prompt_set_1.txt
-├── results/
-│   └── hallucination_analysis.xlsx
-├── screenshots/
-│   └── example_comparison.png
-└── README.md
+│   ├── history_prompts.txt
+│   ├── science_prompts.txt
+│   └── popculture_prompts.txt
+├── responses/
+│   ├── chatgpt_responses.json
+│   └── claude_responses.json
+├── analysis/
+│   └── hallucination_report.md
+├── README.md
 
 ##  Next Steps
 
