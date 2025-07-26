@@ -58,7 +58,7 @@ This project investigates how often and in what ways ChatGPT and Claude generate
    - Citation or lack thereof
 ```
 
-## 🔮 Future Scope
+##  Future Scope
 
 ```text
 • Automate hallucination detection using NLP techniques.
