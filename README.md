@@ -19,7 +19,7 @@ This project investigates how often and in what ways ChatGPT and Claude generate
 - Detailed observations and test results are available in the `/results` folder.
 
 ##  Project Structure
-project-03-response-hallucination/
+```project-03-response-hallucination/
 ├── prompts/
 │   ├── history_prompts.txt
 │   ├── science_prompts.txt
@@ -30,7 +30,7 @@ project-03-response-hallucination/
 ├── analysis/
 │   └── hallucination_report.md
 ├── README.md
-
+```
 ##  Next Steps
 
 - Extend the test set to medical and legal queries.
