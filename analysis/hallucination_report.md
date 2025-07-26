@@ -17,11 +17,9 @@
 | 9        | No                      | No                     | Stated *299,792,458 m/s* or equivalent ✔️                       |
 | 10       | No                      | No                     | Both correctly identified 1857 as the First War of Independence |
 
-💡 Key Takeaways:
- Zero hallucinations observed in this batch of 10 prompts.
+ ## 💡 Key Takeaways
 
-🤖 Claude provided more elaborate and context-rich answers, showcasing depth.
-
-💬 ChatGPT responses were accurate but more concise.
-
-🧪 No content fabrication or misinformation was identified from either model.
+-  **Zero hallucinations** were observed across all 10 factual prompts.
+-  **Claude** consistently provided **more detailed and context-rich responses**, especially for biology and history questions.
+-  **ChatGPT** gave **concise and accurate answers**, sufficient for general understanding.
+-  No signs of fabricated content, misinformation, or factual inconsistencies were found in this evaluation.
