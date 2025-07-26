@@ -37,4 +37,33 @@ This project investigates how often and in what ways ChatGPT and Claude generate
 - Automate response evaluation with QA benchmarks.
 - Collaborate on hallucination mitigation strategies.
 
+##  Methodology
 
+```text
+• Selected 10 fact-based prompts across:
+   - History
+   - Science
+   - Pop Culture
+
+• Both ChatGPT and Claude received identical prompts.
+
+• Responses were manually compared based on:
+   - Factual accuracy
+   - Specificity of information
+   - Confidence/tone of answer
+
+• Each answer was reviewed for:
+   - Hallucinations (fabricated or incorrect facts)
+   - Clarity and completeness
+   - Citation or lack thereof
+```
+
+## 🔮 Future Scope
+
+```text
+• Automate hallucination detection using NLP techniques.
+• Expand dataset to 100+ prompts across diverse domains.
+• Introduce quantitative metrics like BLEU, ROUGE for deeper evaluation.
+• Test with multilingual prompts to assess non-English hallucination patterns.
+• Evaluate newer models like GPT-4.5, Claude 3 Opus, Gemini, etc.
+```
